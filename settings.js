@@ -16,14 +16,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['27634090203'] 
-global.pemilik = ['27634090203'] //pemilik nomor
-global.premium = ['27634090203'] //premium number
+global.owner = ['923032112917'] 
+global.pemilik = ['923032112917'] //pemilik nomor
+global.premium = ['923032112917'] //premium number
 global.pengguna = 'Drips' //pengguna
-global.botnma = 'ZIM BOT INC' //botnama,botname
-global.ownernma = 'Drips' //ownernama,ownername
-global.packname = 'Drips' // packname
-global.author = 'By Drips Memes' //authorname
+global.botnma = 'AYAZ'S BOT INC' //botnama,botname
+global.ownernma = 'AYAZ' //ownernama,ownername
+global.packname = 'AYAZ' // packname
+global.author = 'By AYAZ Memes' //authorname
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
